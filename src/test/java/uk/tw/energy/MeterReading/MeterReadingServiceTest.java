@@ -1,4 +1,4 @@
-package uk.tw.energy.service;
+package uk.tw.energy.MeterReading;
 
 import org.junit.jupiter.api.BeforeEach;
 import org.junit.jupiter.api.Test;
